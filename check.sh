@@ -1,5 +1,5 @@
 error() {
-	message "An error occured, you must fix it to continue!"
+	message "No Northern configuration file"
 	exit 1
 }
 
